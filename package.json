@@ -1,5 +1,5 @@
 {
-  "name": "@collboard/hello-world-module",
+  "name": "@collboard/frames",
   "version": "0.3.37",
   "description": "Simple sample module for Collboard.com created via @collboard/modules-sdk.",
   "license": "SEE LICENSE IN LICENSE",
