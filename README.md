@@ -5,8 +5,6 @@
 
 
 [![License of 🪟 Frames for Collboard](https://img.shields.io/github/license/collboard/frames.svg?style=flat)](https://github.com/collboard/frames/blob/main/LICENSE)
-[![NPM Version of 🪟 Frames for Collboard](https://badge.fury.io/js/frames.svg)](https://www.npmjs.com/package/frames)
-[![Quality of package 🪟 Frames for Collboard](https://packagequality.com/shield/frames.svg)](https://packagequality.com/#?package=frames)
 [![lint](https://github.com/collboard/frames/actions/workflows/lint.yml/badge.svg)](https://github.com/collboard/frames/actions/workflows/lint.yml)
 [![test](https://github.com/collboard/frames/actions/workflows/test.yml/badge.svg)](https://github.com/collboard/frames/actions/workflows/test.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/collboard/frames/badge.svg)](https://snyk.io/test/github/collboard/frames)
