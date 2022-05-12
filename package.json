@@ -1,7 +1,7 @@
 {
   "name": "@collboard/frames",
   "version": "0.3.37",
-  "description": "Export frames for Collboard.com created via @collboard/modules-sdk.",
+  "description": "Export frames for Collboard.com",
   "license": "SEE LICENSE IN LICENSE",
   "contributors": [
     "Pavol Hejný <pavol.hejny@collboard.com> (https://collboard.com/-/about/team)",
